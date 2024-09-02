@@ -1,5 +1,9 @@
 # Paper_review
 - Health care & Medical AI Review
+
+## Generative Model
+### Medical GM (Alzhemier's disease)<br>
+[Review pdf](https://github.com/billkim418/Paper_review/blob/main/Generative%20model/Medical%20GM/20230707_%EA%B9%80%ED%99%8D%EB%B2%94.pdf)
 ## Time series Imputation Methods
 - 시계열 결측치 처리 동향 파악<br>
 ### Survey Trends
