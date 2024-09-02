@@ -36,7 +36,7 @@
 ### Prediction Model
 - Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting<br>
 [Paper](https://github.com/billkim418/Paper_review/blob/main/Prediction%20model/CrossFormer/Crossformer.pdf)<br>
-[Review pdf](https://github.com/billkim418/Paper_review/blob/main/Prediction%20model/CrossFormer/20240816_%EA%B9%80%ED%99%8D%EB%B2%94.pdf)<br>
+[Review](https://github.com/billkim418/Paper_review/blob/main/Prediction%20model/CrossFormer/20240816_%EA%B9%80%ED%99%8D%EB%B2%94.pdf)<br>
 - A multilater multimodal detection and prediction model based on explainable artificial intelligence for Alzheimer's disease<br>
 [Paper](https://github.com/billkim418/Paper_review/blob/main/Prediction%20model/Multimodal/A%20multilayer%20multimodal%20detection%20and%20prediction%20model%20based%20on%20explainable%20artificial%20intelligence%20for%20Alzheimer's%20disease.pdf)<br>
 [Review](https://github.com/billkim418/Paper_review/blob/main/Prediction%20model/Multimodal/20221007_%EA%B9%80%ED%99%8D%EB%B2%94.pdf)<br>
@@ -45,7 +45,7 @@
 ###  Inverse RL
 - Introduction to Inverse Reinforcement Learning<br>
 [Paper](https://github.com/billkim418/Paper_review/blob/main/Reinforcement%20Learning/Inverse%20RL/Reviewpaper2.pdf)<br>
-[Review pdf](https://github.com/billkim418/Paper_review/blob/main/Reinforcement%20Learning/Inverse%20RL/20240126_%EA%B9%80%ED%99%8D%EB%B2%94.pdf)<br>
+[Review](https://github.com/billkim418/Paper_review/blob/main/Reinforcement%20Learning/Inverse%20RL/20240126_%EA%B9%80%ED%99%8D%EB%B2%94.pdf)<br>
 - An Empirical Study of Representation Learning for Reinforcement Learning in Healhtcare<br>
 [Paper](https://github.com/billkim418/Paper_review/blob/main/Reinforcement%20Learning/Representation%20Learning%20Survey/An%20Empirical%20Study%20of%20Representation%20Learning%20for%20Reinforcement%20Learning%20in%20Healthcare.pdf)<br>
 [Review](https://github.com/billkim418/Paper_review/blob/main/Reinforcement%20Learning/Representation%20Learning%20Survey/20230901_%EA%B9%80%ED%99%8D%EB%B2%94.pdf)<br>
